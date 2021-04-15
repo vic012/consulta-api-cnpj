@@ -1,6 +1,6 @@
 ﻿# Um script python para consumir a Api pública da Receita para consulta do Cartão CNPJ
 
-#Como funciona:
+# Como funciona:
 Baixe o módulo "cnpj.py" no seu pc.
 Exceute-o com o python:
 
@@ -10,13 +10,13 @@ dentro da função "demonstra(self)", altere dentro da propriedade
 {texto['O campo que deseja exibir a informação']}, por exemplo:
 {texto['nome']} Que mostrará o nome da empresa.
 
-#Atenção, o script usa duas bibliotecas:
+# Atenção, o script usa duas bibliotecas:
 1)PyAutogui;
 2)Requests;
 
 Você vai precisar instalar elas em seu PC:
 
-#Instalando pelo PIP:
+# Instalando pelo PIP:
 1)PyAutogui:
 pip install pyautogui
 
