@@ -1,4 +1,4 @@
-﻿# Um script python para consumir a Api pública da Receita para consulta ddo Cartão CNPJ
+﻿# Um script python para consumir a Api pública da Receita para consulta do Cartão CNPJ
 
 #Como funciona:
 Baixe o módulo "cnpj.py" no seu pc.
